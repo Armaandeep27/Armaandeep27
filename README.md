@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://www.linkedin.com/in/armaandeep-singh-824b67330/
+  LinkedIn -> https://www.linkedin.com/in/armaandeep-singh-824b67330/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
