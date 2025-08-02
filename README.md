@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **C++, React, OOPs**
+- 🌱 I’m currently learning **C++, React**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
