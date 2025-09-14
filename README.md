@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Armaandeep Singh Bumrah</h1>
 <h3 align="center">I am an enthusiastic tech developer based in India.</h3>
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **C++, React**
+- 🌱 I’m currently learning **C++, React, Routing, MongoDB**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArmaanTheCoder?tab=repositories](https://github.com/ArmaanTheCoder?tab=repositories)
 
-- 💬 Ask me about **Javascript, C, C++**
+- 💬 Ask me about **Javascript, C, C++, React, Express**
 
 - 📫 How to reach me **armaandeepsingh344@gmail.com**
 
