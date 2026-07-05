@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armaandeep Singh Bumrah</h1>
 <h3 align="center">I am an enthusiastic tech developer based in India.</h3>
 
-* 🔭 I’m currently working on **Backend Development**
-
 * 🌱 I’m currently learning **Web Development**
 
 * 👯 I’m looking to collaborate on **Web Development**
