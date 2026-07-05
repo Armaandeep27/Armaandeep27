@@ -3,17 +3,13 @@
 
 * 🔭 I’m currently working on **Backend Development**
 
-* 🌱 I’m currently learning **C++, React, Routing, MongoDB**
+* 🌱 I’m currently learning **Web Development**
 
 * 👯 I’m looking to collaborate on **Web Development**
 
-* 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ArmaanTheCoder?tab=repositories)
-
-* 💬 Ask me about **JavaScript, C, C++, React, Node.js, Express.js, MongoDB**
+* 💬 Ask me about **JavaScript, TypeScript, C, C++, React, Node.js, Express.js, MongoDB**
 
 * 📫 How to reach me **[armaandeepsingh344@gmail.com](mailto:armaandeepsingh344@gmail.com)**
-
-* ⚡ Fun fact **Not so funny**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -53,6 +49,10 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
