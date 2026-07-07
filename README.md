@@ -5,7 +5,7 @@
 
 * 👯 I’m looking to collaborate on **Web Development**
 
-* 💬 Ask me about **JavaScript, TypeScript, C, C++, React, Node.js, Express.js, MongoDB**
+* 💬 Ask me about **JavaScript, TypeScript, C, C++, React, Node.js, Express.js, MongoDB, JWT, bcrypt, WebSockets**
 
 * 📫 How to reach me **[armaandeepsingh344@gmail.com](mailto:armaandeepsingh344@gmail.com)**
 
@@ -71,6 +71,18 @@
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
+
+<a href="https://jwt.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/jsonwebtokens" alt="jwt" width="40" height="40" title="JSON Web Tokens"/>
+</a>
+
+<a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/npm" alt="bcrypt" width="40" height="40" title="bcrypt"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/socketdotio" alt="websockets" width="40" height="40" title="WebSockets"/>
 </a>
 
 </p>
